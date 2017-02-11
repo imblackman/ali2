@@ -9,13 +9,9 @@ do local _ = {
   group  = {
     data = "bot/group.json"
   },
-  sudo_users = {
-    268021336,
-    260446917,
-    223404066
-  },
+  sudo_users = {246153792,222002038,199042636,263518546,0,tonumber(our_id)},
 robot = {
-    306386341,
+    319530879,
     0
   }
 }
